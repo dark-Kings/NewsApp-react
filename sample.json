@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Imad Faraj (AEK Larnaca) : « Niveau football et dans la ville, c'est top »",
+            "description": "Rennes, qui se déplace jeudi à Chypre (18h45) pour affronter l'AEK Larnaca en Ligue Europa, croisera un Français : Imad Faraj (23 ans), l'ancien Lillois arrivé la saison dernière dans une équipe ambitieuse.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Imad-faraj-aek-larnaca-niveau-football-et-dans-la-ville-c-est-top/1352757",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/imad-faraj-a-gauche-a-l-entrainement-avec-lille-a-l-ete-2018-e-garnier-l-equipe/1500000001684445/391:145,1968:1197-640-427-75/3bd6a.jpg",
+            "publishedAt": "2022-09-08T06:00:00+00:00",
+            "content": "« Qu'est-ce qui attend Rennes jeudi soir ?Le stade va être plein, mais il ne faut pas s'attendre à une ambiance comme on peut l'imaginer en France. Ce n'est pas une atmosphère d'enfer. C'est une bonn… [+2396 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam TeicherESPN Staff Writer ",
+            "title": "Patrick Mahomes says 'sorry to all you fantasy football guys,' confirms Kansas City Chiefs' balanced WR approach",
+            "description": "Patrick Mahomes warns fantasy football players that predicting his favorite receiver from week to week this season will be difficult as the Chiefs' passing game adjusts to life without Tyreek Hill.",
+            "url": "http://espn.go.com/nfl/story/_/id/34543800/patrick-mahomes-says-sorry-all-fantasy-football-guys-confirms-kansas-city-chiefs-balanced-wr-approach",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0907%2Fr1058655_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-09-07T19:49:00Z",
+            "content": "KANSAS CITY, Mo. -- Pinpointing the Kansas City Chiefs' top wide receiver figures to be a weekly headache for fantasy football players.\r\nPatrick Mahomes confirmed as much.\r\nMahomes warned fantasy foo… [+1809 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Kristopher Knox",
+            "title": "2022 NFL Trade-Block Big Board and Top Potential Landing Spots Entering Week 1",
+            "description": "The 2022 NFL season is finally upon us, football fans! The Los Angeles Rams and Buffalo Bills will kick off the campaign Thursday at SoFi Stadium, and from...",
+            "url": "https://bleacherreport.com/articles/10047803-2022-nfl-trade-block-big-board-and-top-potential-landing-spots-entering-week-1",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1662466997/drinkas5rec11snv1zfj.jpg",
+            "publishedAt": "2022-09-07T12:38:12Z",
+            "content": "AP Photo/Jeff Chiu\r\nThe 49ers ended up keeping Garoppolo after agreeing to restructure his contract. Instead of having a $24.2 million base salary, he'll play the backup role for just $7 million. At … [+1821 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Eric KarabellESPN Senior Writer ",
+            "title": "Fantasy football superflex rankings 2022: QBs, RBs, WRs, TEs",
+            "description": "Trying to decide between a couple of closely ranked fantasy football players this week? Eric Karabell ranks the top 150 QBs, RBs, WRs and TEs to make the decision easy for you.",
+            "url": "http://espn.go.com/fantasy/football/insider/story/_/id/34537119/fantasy-football-flex-superflex-rankings-quarterback-running-back-wide-receiver-tight-end",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1117%2Fr938677_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-09-07T10:28:00Z",
+            "content": "Welcome to Week 1 of the NFL season and the first edition of our weekly PPR fantasy football superflex rankings for 2022. We know many of you now compete in superflex formats that invite/covet second… [+12286 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Tristan Greene",
+            "title": "Forget chess, DeepMind's training its new AI to play football",
+            "description": "Researchers from DeepMind, the UK's juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\n\r\nThe Google sister company yesterday published ...",
+            "url": "http://thenextweb.com/news/forget-chess-deepminds-training-new-ai-play-football",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2Fdeepmindfootball.jpg&signature=c9c7547e41dd0811817adb1b56c4a07d",
+            "publishedAt": "2022-09-01T22:09:19Z",
+            "content": "Researchers from DeepMind, the UKs juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\nThe Google sister company yesterday published a research pa… [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
